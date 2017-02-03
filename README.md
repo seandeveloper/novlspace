@@ -1,4 +1,4 @@
-# Creative Agency
+# NovlSpace
 ![Creative Agency](https://cosmicjs.com/uploads/9653b580-dcf7-11e6-9289-fd387f08ca35-creative-agency.jpg)
 ###[View Demo](https://cosmicjs.com/apps/creative-agency/demo)
 A website for a creative agency.  Includes team management, portfolio management and contact form (powered by MailGun).
